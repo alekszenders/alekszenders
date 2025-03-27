@@ -17,7 +17,7 @@
  ### 📫 Как связаться со мной:
 
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alekszenders)
- [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](https://mail.gmail.com/alekszenders@gmail.com)
+ [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:alekszenders@gmail.com)
 ---
 
 ### 🛠 Тестирование веб-приложений:
