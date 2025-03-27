@@ -10,17 +10,12 @@
 Я начинающий тестировщик и изучаю различные учебные ресурсы по разным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back).
 
 ---
-### 🤝 Социальные сети:
+### CV
 
-<div id="badges">
-    <a href="https://t.me@alekszenders" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-</div>
+---
 
-### 📫 Как связаться со мной:
- [![Gmail](https://img.shields.io/badge/-Gmail-090909?
- style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:alekszenders@gmail.com)
+ ### 📫 Как связаться со мной:
+
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me@alekszenders)
  [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](https://mail.gmail.com/alekszenders@gmail.com)
 ---
