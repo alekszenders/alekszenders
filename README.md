@@ -24,8 +24,10 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>&nbsp
-  <img> src="https://github.com/alekszenders/alekszenders/blob/main/assets/css40.png"/>&nbsp
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>&nbsp 
+  <img src="icon/css40.png" title="CSS" alt="CSS"/>&nbsp
+   <img src="icon/html40.png" title="CSS" alt="CSS"/>&nbsp
+
 </div>
 
 ---
