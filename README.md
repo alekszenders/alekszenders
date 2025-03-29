@@ -10,7 +10,7 @@
 Я начинающий тестировщик и изучаю различные учебные ресурсы по разным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back).
 
 ---
-### CV
+### :page_facing_up: CV
 [Link to my CV](https://drive.google.com/file/d/12I2hvAgI5k-jlh4m9RZcbmHPHOmiV8tl/view?usp=drive_link)
 
 ---
