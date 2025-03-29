@@ -11,6 +11,7 @@
 
 ---
 ### CV
+[Link to my CV](https://drive.google.com/file/d/12I2hvAgI5k-jlh4m9RZcbmHPHOmiV8tl/view?usp=drive_link)
 
 ---
 
