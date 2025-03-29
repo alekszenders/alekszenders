@@ -12,3 +12,6 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor)
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor)
+
