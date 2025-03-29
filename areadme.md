@@ -2,7 +2,7 @@
 ### 👨‍💻 Обо мне:
 Я начинающий тестировщик и изучаю различные учебные ресурсы по разным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back).
 ###  :page_facing_up: My CV
-[Link to my CV] (https://drive.google.com/file/d/)
+[Link to my CV](https://drive.google.com/file/d/12I2hvAgI5k-jlh4m9RZcbmHPHOmiV8tl/view?usp=drive_link)
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor)
