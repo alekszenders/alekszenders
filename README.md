@@ -11,7 +11,7 @@
 
 ---
 ### :page_facing_up: CV
-[Link to my CV](https://drive.google.com/file/d/12I2hvAgI5k-jlh4m9RZcbmHPHOmiV8tl/view?usp=drive_link)
+[Link to my CV](https://drive.google.com/file/d/13r9bpe0JBnv8ZGTgJwNBm0MsY6-ytM0g/view?usp=sharing)
 
 ---
 
